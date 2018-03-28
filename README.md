@@ -1,2 +1,2 @@
 # High-Content-Screening-Microscopy
-Analysis at single-cell level with HCS microscopy and Cell Profiler  
+Analysis at single-cell level with HCS microscopy and [Cell Profiler](http://cellprofiler.org/)
